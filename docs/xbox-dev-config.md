@@ -1,8 +1,8 @@
 3 xboxes
 
-xbox 1 - still in retial mode
-xbox 2 - pearlbuckdev1@outlook.com
-xbox 3 - pearlbuckdev2@outlook.com
+- xbox 1 : pearlbuckdev0@outlook.com
+- xbox 2 : pearlbuckdev2@outlook.com
+- xbox 3 : pearlbuckdev1@outlook.com
 
 the developer account is currently thru EugeneTech and we get three activations.
 
