@@ -33,6 +33,8 @@ support the FabLab. Mark is willing to personally donate or find donors for all
 the needed equipment, tools, and materials. Pearl Buck will provide
 administrative support when needed to process donations.
 
+Students from the Academy at the Pearl Buck Center will be involved in collaborating on aspects of design and be directly involved in the process of building and prototyping as is possible with consideration for safety needs. This involvement will help with the Academy's goal of providing diverse opportunities of learning and improve the work skills of students who have employment goals, particularly with planning, communication and learning the processes of iteration in development. Curriculum used for teaching these goals will be coordinated with staff in the Academy at Pearl Buck.
+
 Many of these terms are very specific and require some definition.
 
 -   adaptive: specific to the needs of people with special needs. For example,
