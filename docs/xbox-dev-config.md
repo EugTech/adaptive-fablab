@@ -1,8 +1,8 @@
 3 xboxes
 
-- xbox A : pearlbuckdev0@outlook.com
-- xbox B : pearlbuckdev1@outlook.com
-- xbox C : pearlbuckdev2@outlook.com
+- xboxoneA : pearlbuckdev0@outlook.com
+- xboxoneB : pearlbuckdev1@outlook.com
+- xboxoneC : pearlbuckdev2@outlook.com
 
 the developer account is currently thru EugeneTech and we get three activations.
 
